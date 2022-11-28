@@ -10,4 +10,4 @@ See the live website here: https://sarahgjacobs.github.io/work-day-scheduler/
 
 ## Usage
 
-![Screenshot of Portfolio Website](./assets/images/Screen%20Shot%202022-11-05%20at%201.09.11%20PM.png "Sarah Jacobs Portfolio")
+![Screenshot of Portfolio Website](./assets/Screen%20Shot%202022-11-28%20at%2012.58.49%20PM.png "Work Day Scheduler")
